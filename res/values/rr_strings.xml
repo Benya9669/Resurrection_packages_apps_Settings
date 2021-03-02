@@ -2989,5 +2989,4 @@
     <string name="display_message">720 x 1280, 4.6 inches</string>
     <string name="rom_message">Adreno 540</string>
     <string name="soc_message">Snapdragon 835</string>
-    <string name="rr_maintainer_summary">Benya</string>
 </resources>
